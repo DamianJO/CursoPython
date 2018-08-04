@@ -7,6 +7,7 @@ diccionarioUsuarioVendedorMercancias = {}
 listTempUsuariosVendedorMercancias = []
 print("Bienvenido a Gesichsbuch" +'\n')
 saludo1 = input("Presione '1' para continuar")
+#Soy un perdedor xDDDD
 if saludo1 == "1":
 	saludo2 = input("Gesichsbuch es una tiendo en línea de ropa. Usted puede comprar diferentes mercancías aquí. Presione enter para continuar.")
 	saludo3 = input("Para poder adquirir un producto necesita registrarse y seleccionar el número clave correspondiente a la mercancía. Presione enter para continuar.")
